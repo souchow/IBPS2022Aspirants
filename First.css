@@ -1,0 +1,30 @@
+h1{
+    color: 023e8a;
+    font-style: italic;
+    font-family:'Lucida Bright';
+    background-color: 90e0ef;
+    background-image: -moz-linear-gradient(20);
+    padding-left: 50px;
+    
+}
+h6{
+    font-family: Brush Script MT;
+}
+img{
+    width: 100px;
+    size: 5inch;
+}
+button:hover{
+    color: 7209b7;
+    background-color: aquamarine;
+}
+
+.a{
+    background-color: rgb(35, 81, 168);
+    background-size: 20px;
+    border-radius: 50px;
+}
+body{
+    background-color: c1d3fe;
+    
+}
